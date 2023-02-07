@@ -14,6 +14,8 @@ For this frontend, I used the backend developed by Roch Moreau that you can find
 
 Please note that the website does not display all locations. So if you create a new location, make sure it is created from your Mongo database.
 
+Please note that this code may have some problems on Chrome. You can use another browser or private browsing to solve this problem. If you still have problems, don't hesitate to contact me.
+
 ### User Stories:
 
 US1: As a random visitor, I want to be able to register an account or log-in, so I can access all features - Achieved
