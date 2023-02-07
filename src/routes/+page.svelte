@@ -33,7 +33,7 @@
             that I can create a new location - <b>Achieved</b>
         </li>
         <li><b>US5:</b> As an “admin" user, I want to see a button to edit locations in the array of locations,
-            so that I can edit existing locations - <b>In Progress</b>
+            so that I can edit existing locations - <b>Achieved</b>
         </li>
         <li><b>US6:</b> As an “admin" user, I want to see a button to delete locations in the array of
             locations so that I can delete existing locations - <b>Achieved</b>
