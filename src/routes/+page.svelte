@@ -30,7 +30,7 @@
             open a modal containing details, so that the website is useful - <b>Achieved</b>
         </li>
         <li><b>US4:</b> As an “admin" user, I want to see a “Add Location” button in the location page, so
-            that I can create a new location - <b>In Progress</b>
+            that I can create a new location - <b>Achieved</b>
         </li>
         <li><b>US5:</b> As an “admin" user, I want to see a button to edit locations in the array of locations,
             so that I can edit existing locations - <b>In Progress</b>
